@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Personal</string>
+    <string name="name">Cloud Immense</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        \nHi, my name is Immense Cloud.\n\n I am 19, I have some hobbies
+        \nthat I do not want to talk about right now. What I can say from my biography is that
+        \n\nI used to love math. That is all that I can say.\n
+        \nthat I do not want to talk about right now. What I can say from my biography is that
+        \n\nI used to love math. That is all that I can say.\n
+        \nthat I do not want to talk about right now. What I can say from my biography is that
+        \n\nI used to love math. That is all that I can say.\n
+        \nthat I do not want to talk about right now. What I can say from my biography is that
+        \n\nI used to love math. That is all that I can say.\n
+    </string>
+    <string name="Wnickname">What is your Nickname?</string>
+    <string name="button">Done</string>
+
+</resources>

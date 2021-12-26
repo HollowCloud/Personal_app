@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="yellow_star">16dp</dimen>
+    <item name="easy_to_read" type="dimen" format="float">1.2</item>
+</resources>
